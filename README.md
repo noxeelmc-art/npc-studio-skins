@@ -65,7 +65,7 @@ Yes — build a new pack with all your skins and replace the old one. NPCs keep 
 
 <div align="center">
 
-Made by **NoxeelMC** · [YouTube](https://youtube.com/@NoxeelMC) · [Discord](DISCORD_LINK_HERE) · [CurseForge](CURSEFORGE_LINK_HERE)
+Made by **NoxeelMC** · [YouTube](https://youtube.com/@NoxeelMC) · [Discord](https://discord.gg/YrWT76eNBr) · [CurseForge]()
 
 <sub>Not affiliated with Mojang or Microsoft. Minecraft is a trademark of Mojang Studios.</sub>
 
